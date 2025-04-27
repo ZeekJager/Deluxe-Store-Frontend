@@ -24,7 +24,7 @@ The goal of this project is to practice building full-stack applications by hand
 - Improve search and filter options
 
 ## 📸 Screenshots
-*(Add screenshots here if available)*
+*(To be Added)*
 
 ## 🧑‍💻 Installation
 1. Clone the repository
